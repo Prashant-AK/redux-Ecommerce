@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-Ecommerce/static/css/main.8993174e.css",
+    "main.js": "/redux-Ecommerce/static/js/main.bc8def81.js",
+    "index.html": "/redux-Ecommerce/index.html",
+    "main.8993174e.css.map": "/redux-Ecommerce/static/css/main.8993174e.css.map",
+    "main.bc8def81.js.map": "/redux-Ecommerce/static/js/main.bc8def81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8993174e.css",
+    "static/js/main.bc8def81.js"
+  ]
+}
